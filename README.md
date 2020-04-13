@@ -31,6 +31,6 @@ Ahoy! You are welcome to access Lab Zero's guides for our best practices for pro
 
 ## Other
 
-- [PowerPoint Hell to Powerful PowerPoint](https://github.com/labzero/guides/blob/master/process/better_presentations.md)
+- [PowerPoint Hell to Powerful PowerPoint](https://github.com/labzero/guides/blob/master/process/powerpoint-hell_to_powerful.md.md)
 - [Securing Your Workspace](https://github.com/labzero/guides/blob/master/process/securing_your_workspace.md)
 - [Meeting Etiquette](https://github.com/labzero/guides/blob/master/process/Meeting-Etiquette.md)
